@@ -1,0 +1,10 @@
+{
+    "diego": {
+        "password": "password123",
+        "nickname": "Diego_Admin"
+    },
+    "test": {
+        "password": "test",
+        "nickname": "Utente_Test"
+    }
+}
